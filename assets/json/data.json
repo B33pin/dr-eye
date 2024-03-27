@@ -1,0 +1,17 @@
+[
+    {
+        "title": "What is Diabetic Retinopathy?",
+        "text": "Diabetic retinopathy is a diabetes complication that affects the eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina). At first, diabetic retinopathy may cause no symptoms or only mild vision problems. However, it can eventually lead to blindness. The condition can develop in anyone who has type 1 or type 2 diabetes. The longer you have diabetes and the less controlled your blood sugar is, the more likely you are to develop this eye complication.",
+        "imageName": "assets/images/dr.jpg"
+    },
+    {
+        "title": "Symptoms of Diabetic Retinopathy",
+        "text": "In the early stages, diabetic retinopathy may cause no symptoms or only mild vision problems. However, as the condition progresses, it can lead to symptoms like blurred vision, floaters, dark areas of vision, and difficulty perceiving colors. These symptoms can make it hard to read, drive, and perform other daily activities. If left untreated, diabetic retinopathy can lead to severe vision loss and even blindness.",
+        "imageName": "assets/images/sym.png"
+    },
+    {
+        "title": "Prevention and Treatment",
+        "text": "Managing your diabetes is the best way to lower your risk of diabetic retinopathy. This includes controlling your blood sugar level, blood pressure, and cholesterol, along with regular diabetes check-ups. For those who have developed diabetic retinopathy, treatments may include laser treatment, injectable medications to reduce swelling, and surgery to remove blood or scar tissue from the eye. Early detection and treatment can significantly reduce the risk of blindness.",
+        "imageName": "assets/images/treat.jpeg"
+    }
+]

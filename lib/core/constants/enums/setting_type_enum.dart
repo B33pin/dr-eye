@@ -1,0 +1,1 @@
+enum SettingsType { splashSettings, botttomNavBarSettings }

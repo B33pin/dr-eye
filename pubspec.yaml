@@ -1,0 +1,56 @@
+name: drscanner_ai
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_screenutil: ^5.7.0
+  flutter_svg: ^2.0.5
+  carousel_slider: ^4.2.1
+  get: ^4.6.5
+  image_picker: ^1.0.7
+  lottie: ^2.3.2
+  tflite_flutter: ^0.10.0
+  image: ^4.1.7
+  get_it: ^7.6.7
+  flutter_launcher_icons: ^0.13.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/dr_eye.png"
+  min_sdk_android: 26 # android min sdk min:16, default 21
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/tflite/
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+    - assets/json/
+
+  fonts:
+    - family: Roboto
+      fonts:
+      - asset: assets/fonts/Roboto-Regular.ttf
+        weight: 400
+      - asset: assets/fonts/Roboto-Medium.ttf
+        weight: 500
+      - asset: assets/fonts/Roboto-Bold.ttf
+        weight: 700    

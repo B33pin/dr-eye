@@ -1,0 +1,1 @@
+enum DeviceTypes { phone, tablet }
